@@ -2,7 +2,7 @@
 # Hi there, welcome to Azis's github repository! 👋 
 
 <p align="left">
- 💻 Information System student at Universitas Ahmad Dahlan (6th semester)
+ 💻 Information System student at Universitas Ahmad Dahlan (8th semester)
 </p> 
  <p align="left">
  🔥 Interested in ui/ux, fullstack, and data science
