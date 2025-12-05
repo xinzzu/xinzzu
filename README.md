@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br><br>Immersive WebXR applications with LLM integration & Progressive Web Apps (PWA)<br><br>I’m looking to collaborate on<br><br>Next.js ecosystems, 3D Web Experiences (Three.js/R3F), and Open Source UI Libraries<br><br>I’m looking for help with<br><br>Optimizing Web Performance, SEO Best Practices, and implementing Clean Code Architecture (Alasan: Ini umum tapi penting. Semua dev setuju ini skill mahal, tanpa perlu bahas server).<br><br>I’m currently learning<br><br>Advanced TypeScript patterns, Scalable System Design, and Micro-interactions<br>Ask me about<br><br>Building scalable Web Apps (Next.js), VR/AR Prototyping, and High-Fidelity UI/UX Design
+I’m currently working on<br><br>Immersive WebXR applications with LLM integration & Progressive Web Apps (PWA)<br><br>I’m looking to collaborate on<br><br>Next.js ecosystems, 3D Web Experiences (Three.js/R3F), and Open Source UI Libraries<br><br>I’m looking for help with<br><br>Optimizing Web Performance, SEO Best Practices, and implementing Clean Code Architecture).<br><br>I’m currently learning<br><br>Advanced TypeScript patterns, Scalable System Design, and Micro-interactions<br>Ask me about<br><br>Building scalable Web Apps (Next.js), VR/AR Prototyping, and High-Fidelity UI/UX Design
 
 
 ## 🌐 Socials:
