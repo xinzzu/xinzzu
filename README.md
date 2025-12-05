@@ -1,31 +1,21 @@
+# 💫 About Me:
+I’m currently working on<br><br>Immersive WebXR applications with LLM integration & Progressive Web Apps (PWA)<br><br>I’m looking to collaborate on<br><br>Next.js ecosystems, 3D Web Experiences (Three.js/R3F), and Open Source UI Libraries<br><br>I’m looking for help with<br><br>Optimizing Web Performance, SEO Best Practices, and implementing Clean Code Architecture (Alasan: Ini umum tapi penting. Semua dev setuju ini skill mahal, tanpa perlu bahas server).<br><br>I’m currently learning<br><br>Advanced TypeScript patterns, Scalable System Design, and Micro-interactions<br>Ask me about<br><br>Building scalable Web Apps (Next.js), VR/AR Prototyping, and High-Fidelity UI/UX Design
 
-# Hi there, welcome to Azis's github repository! 👋 
 
-<p align="left">
- 💻 Information System student at Universitas Ahmad Dahlan (8th semester)
-</p> 
- <p align="left">
- 🔥 Interested in ui/ux, fullstack, and data science
-</p>
-<p align="left">
- 📫 How to reach me <a href="mailto:azis2100016101@webmail.uad.ac.id"><strong>azis2100016101@webmail.uad.ac.id</strong></a>
-</p>
-<br>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xinzzu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_azisn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/xinzzu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xinzzui@gmail.com) 
 
-<p align="left">
-<a href="https://github.com/xinzzu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xinzzu&rank_icon=github&theme=github_dark" alt="xinzzu" /></p>
-<br />
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xinzzu&show_icons=true&theme=tokyonight&layout=donut" alt="xinzzu" /></p>
-</a>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xinzzu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xinzzu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xinzzu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xinzzu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Find me and let's connect 
+---
+[![](https://visitcount.itsvg.in/api?id=xinzzu&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p>
-  <a href="https://www.linkedin.com/in/xinzzu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/_azisn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-  <a href="mailto:azis21000161101@webmail.uad.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
