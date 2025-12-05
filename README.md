@@ -32,12 +32,12 @@
 
 <div align="center">
 
-[![Xinzzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinzzu&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Xinzzu's Streak](https://streak-stats.demolab.com/?user=xinzzu&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinzzu&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xinzzu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinzzu&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
 
 </div>
 
