@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![Xinzzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinzzu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Xinzzu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xinzzu&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Xinzzu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xinzzu&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
