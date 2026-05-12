@@ -1,11 +1,3 @@
-# 💫 About Me:
-
-- 🔭 I’m currently working on **Immersive WebXR applications with LLM integration & Progressive Web Apps (PWA)**
-- 👯 I’m looking to collaborate on **Next.js ecosystems, 3D Web Experiences (Three.js/R3F), and Open Source UI Libraries**
-- 🤝 I’m looking for help with **Optimizing Web Performance, SEO Best Practices, and implementing Clean Code Architecture**
-- 🌱 I’m currently learning **Advanced TypeScript patterns, Scalable System Design, and Micro-interactions**
-- 💬 Ask me about **Building scalable Web Apps (Next.js), VR/AR Prototyping, and High-Fidelity UI/UX Design**
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xinzzu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_azisn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinzzu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xinzzui@gmail.com) 
 
